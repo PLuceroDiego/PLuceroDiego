@@ -40,4 +40,4 @@ Correo:
 DiegoGPL@outlook.com - DieegooGPL@gmail.com
 
 LinkedIn:
-https://www.linkedin.com/in/diego-gabriel-perez-lucero-81071b385/?skipRedirect=true
+https://www.linkedin.com/in/diego-gabriel-perez-lucero-81071b385/
