@@ -16,12 +16,15 @@ Actualmente continúo fortaleciendo mis conocimientos en:
 
 ---
 
-# Proyecto Destacado
+# Proyecto
 
-## Sistema Backend de Gestión de Clientes y Pedidos
+## Sistema Backend de Inventario y Ventas Tecnologias
 
 API REST desarrollada con Java y Spring Boot que incluye:
 
+Descripción: Sistema backend que permite la gestión de productos, clientes y ventas con autenticación segura, control de stock automático y arquitectura en capas.
+
+-MySQL
 -CRUD de clientes y pedidos  
 -Seguridad con JWT  
 -Spring Security  
@@ -37,7 +40,7 @@ https://github.com/PLuceroDiego
 # Contacto
 
 Correo:
-DiegoGPL@outlook.com - DieegooGPL@gmail.com
+DieegooGPL@gmail.com
 
 LinkedIn:
 https://www.linkedin.com/in/diego-gabriel-perez-lucero-81071b385/
